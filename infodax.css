@@ -1,0 +1,118 @@
+.main{
+    width: 100%;
+    height: 1500px;
+    background-color: black;
+}
+.head{
+    width: 100%;
+    height: 112px;
+    background-color: transparent;
+}
+.tit{
+    
+    padding-left: 46%;
+    padding-top: 2%;
+    font-weight: ;
+    font-family: fantasy;
+    font-style: initial;
+    color: slategrey;
+    font-size: 38px;
+    margin-bottom: 1%;
+}
+.abt{
+    text-decoration: blink;
+    padding-left: 90%;
+    font-size: 103%;
+    color: yellow
+}
+.abtb{
+    width: 48%;
+    color: darkviolet;
+    float: left;
+}
+.ctct{
+    text-decoration: blink;
+    font-size: 103%;
+    color: yellow;
+    padding-left: 0%;
+}
+.ctctb{
+    width: 45%;
+    color: dimgrey;
+    float: left;
+    margin-left: 5%;
+}
+.left{
+    width: 28%;
+    background-color:steelblue;
+    height: 1100px;
+    margin-top: 22px;
+    float: left;
+}
+#lhead{
+    padding-left: 32%;
+    padding-top: 3%;
+    color: yellow;
+}
+.med{
+    padding-left: 13%;
+    padding-top: 16px;
+}
+.content{
+    height: 1170px;
+    width: 1046px;
+    padding-left: 411px;
+    background-color:black;
+}
+
+.contact-form{
+    width: 450px;
+    height: 411px;
+    background-color: lightcyan;
+    margin-left: 526px;
+}
+.srv{
+    color: mediumslateblue;
+    text-align: -webkit-center;
+    padding-top: 30px;
+}
+.pic{
+    width: 550px;
+    height: 350px;
+    padding-left: 240px;
+    align-content: center;
+}
+.pt{
+    color: cornflowerblue;
+    text-align: center;
+    margin-top: 0px;
+}
+.para{
+    color: darkcyan;
+}
+.ab{
+    width: 60%;
+    height: 750px;
+    background-color:black;
+    margin-left: 20%;
+}
+.abo{
+    width: 100%;
+    height: 750px;
+    background-color: black;
+}
+.crd{
+    color: blanchedalmond;
+    text-align: center;
+    margin-top: 94px;
+}
+.cc{
+    color: blanchedalmond;
+    text-align: center;
+    padding-top: 154px;
+
+}
+.parag{
+    color: darkcyan;
+    padding-top: 108px;
+}
